@@ -4,8 +4,8 @@ This dashboard features essential performance metrics of New York City's MTA Sub
 
 
 Data Source: [Retrieved on June 22, 2024]
-1. MTA Subway Hourly Ridership: Beginning February 2022
-https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-February-202/wujg-7c2s/about_data 
+1. MTA Subway Daily Ridership Data: Beginning February 2020
+https://data.ny.gov/Transportation/MTA-Daily-Ridership-Data-Beginning-2020/vxuj-8kew/about_data
 
 2. MTA Subway Trains Delayed: Beginning 2020
 https://data.ny.gov/Transportation/MTA-Subway-Trains-Delayed-Beginning-2020/wx2t-qtaz/about_data
